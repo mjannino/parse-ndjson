@@ -1,0 +1,28 @@
+{
+  "name": "parse-ndjson",
+  "version": "0.0.1",
+  "description": "parse a newline delimited json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjannino/parse-ndjson.git"
+  },
+  "author": "Michael Jannino <michaeljannino@gmail.com> (mjannino.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjannino/parse-ndjson/issues"
+  },
+  "homepage": "https://github.com/mjannino/parse-ndjson#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "split2": "^2.1.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  }
+}
