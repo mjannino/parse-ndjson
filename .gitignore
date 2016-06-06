@@ -2,6 +2,6 @@
 .DS_Store?
 .idea
 test/*
-node_modules/assert
-node_modules/mocha
-node_modules/sinon
+node_modules/assert/
+node_modules/mocha/
+node_modules/sinon/
